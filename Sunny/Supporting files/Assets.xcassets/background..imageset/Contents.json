@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "aerial-view-mountain-covered-fog-beautiful-pink-sky.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "aerial-view-mountain-covered-fog-beautiful-pink-sky 1.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "vertical-long-exposure-shot-road-mountains-starry-sky.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
